@@ -19,7 +19,7 @@
 ## Стек компетенций
 + MS Excel: VLOOKUP, PivotTables, Power Query
 + Python: NumPy, Pandas, Seaborn, Matplotlib, Plotly
-+ SQL: DML (Subquery, JOIN, GROUP BY), DDL
++ SQL: джойны, фильтрация: группировки и сортировки, CTE, оконные функции
 + Google Sheets
 + Tableau (basic)
 + Git
